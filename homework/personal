@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>羅詩喬的個人網頁</title>
+    <style>
+        body{
+            background-color: #fffcf4;
+        }
+        h1{
+            color: rgb(189, 158, 112);
+            text-align: center;
+            font-size: 40px;
+        }
+        li{
+            color: rgb(143, 120, 85);
+            padding: 10px 15px;
+            
+            font-size: 20px;
+        }
+
+    </style>
+</head>
+<body>
+<h1>羅詩喬的個人網頁</h1>
+<ul>
+<li>班級:資工一</li>
+<h2></h2>
+<li>作品：<a href="https://github.com/Luo051227/">github</a></li>
+</ul>
+
+<table>
+</table>
+</body>
+</html>
