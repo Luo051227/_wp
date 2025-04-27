@@ -13,3 +13,4 @@ function countLetters(str) {
   }
 
   console.log(countLetters("banana"));
+//gpt
