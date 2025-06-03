@@ -10,7 +10,7 @@
 課程教材 | https://github.com/ccc113b/html2server <br/> https://www.w3schools.com/
 
 
-**[HW1：請寫一個個人網頁（自我介紹）] (https://github.com/Luo051227/_wp/blob/main/homework/personal)**
+**HW1：請寫一個個人網頁（自我介紹）**
 
 [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)
 
