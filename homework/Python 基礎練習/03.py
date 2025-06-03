@@ -5,4 +5,4 @@ def classify_even_odd(numbers):
                        if num%2 != 0]}
 
     return result
-print(classify_even_odd([1, 2, 3, 4, 5, 6]))
+print(classify_even_odd([ 1, 2, 3, 4, 5, 6]))
