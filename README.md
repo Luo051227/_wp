@@ -47,7 +47,7 @@
 
 **HW8：Python 基礎練習**
 
-[HW8](
+[HW8](https://github.com/Luo051227/_wp/tree/main/homework/Python%20%E5%9F%BA%E7%A4%8E%E7%B7%B4%E7%BF%92)
 
 **HW9：請為 blogSignup 加上可以刪除貼文的功能**
 
