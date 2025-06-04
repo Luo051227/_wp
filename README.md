@@ -14,7 +14,7 @@
 
 ### 作業： [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)  
 ### 說明：  
-**看以前自學內容自己寫的**
+**看以前自學內容自己寫的**  
 主要用到的是html跟一些簡單的css，先把html做好，再做css
 
 ## **HW2：請設計一個註冊表單**
