@@ -21,7 +21,7 @@
 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form)  
 ### 看以前自學內容自己寫的  
 之前我只有寫一個非常簡單的表單，但是這次我在那個表單上又增加了一個功能，就是
-`<label for="country">國家：</label>
+` <label for="country">國家：</label>
             <br/>
             <select id="country" name="country">
               <option value="tw">台灣</option>
