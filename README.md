@@ -82,7 +82,7 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 ### 作業： [HW9](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20blogSignup%20%E5%8A%A0%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%88%AA%E9%99%A4%E8%B2%BC%E6%96%87%E7%9A%84%E5%8A%9F%E8%83%BD)  
 ### 說明：  
 
-## **期中**
+## **期中：聊天機器人**
 
 ### 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)  
 ### 說明：  
