@@ -71,5 +71,4 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 
 ## **期中**
 
-### 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) 
-[程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)
+### 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)
