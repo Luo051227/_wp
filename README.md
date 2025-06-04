@@ -14,14 +14,14 @@
 
 ### 作業： [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)  
 ### 說明：  
-#### 看以前自學內容自己寫的
+**看以前自學內容自己寫的**
 主要用到的是html跟一些簡單的css，先把html做好，再做css
 
 ## **HW2：請設計一個註冊表單**
 
 ### 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form)  
 ### 說明：  
-#### 看以前自學內容自己寫的  
+**看以前自學內容自己寫的**  
 之前我只有寫一個非常簡單的表單，但是這次我在那個表單上又增加了一個功能，就是增加一個國家的選單
 ```html
 <label for="country">國家：</label>
@@ -42,40 +42,40 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 
 ### 作業： [HW3](https://github.com/Luo051227/_wp/tree/main/homework/javascript%E7%B7%B4%E7%BF%92)  
 ### 說明： 
-#### 參考範例&Chatgpt  
+**參考範例&Chatgpt**  
 先參考老師給的範例，再參考Chatgpt，兩個都參考完以後，才將作業寫出來  
 
 ## **HW4：請完成下列 JavaScript 進階習題**
 
 ### 作業： [HW4](https://github.com/Luo051227/_wp/tree/main/homework/JavaScript%20%E9%80%B2%E9%9A%8E%E7%BF%92%E9%A1%8C)  
 ### 說明：  
-#### 全部都參考Chatgpt  
+**全部都參考Chatgpt**  
 第七題：利用向量加法、向量減法和向量內積
 
 ## **HW5：請設計一個個人網站，要能根據路徑做不同的回應**
 
 ### 作業： [HW5](https://github.com/Luo051227/_wp/blob/main/homework/web%E6%A0%B9%E6%93%9A%E8%B7%AF%E5%BE%91%E5%81%9A%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9B%9E%E6%87%89)  
 ### 說明：  
-#### 自己寫的，參考以前自學內容  
+**自己寫的，參考以前自學內容**  
 看著以前的東西，邊參考邊改，慢慢寫出來，用html&css
 
 ## **HW6：請寫一個程式可以新增三筆貼文**
 
 ### 作業： [HW6](https://github.com/Luo051227/_wp/blob/main/homework/%E4%B8%80%E5%80%8B%E7%A8%8B%E5%BC%8F%E5%8F%AF%E4%BB%A5%E6%96%B0%E5%A2%9E%E4%B8%89%E7%AD%86%E8%B2%BC%E6%96%87)  
 ### 說明：  
-#### 看老師範例
+**看老師範例**
 
 ## **HW7：請為 sqlite blog 系統加上貼文時間（要顯示出來）**
 
 ### 作業： [HW7](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20sqlite%20blog%20%E7%B3%BB%E7%B5%B1%E5%8A%A0%E4%B8%8A%E8%B2%BC%E6%96%87%E6%99%82%E9%96%93%EF%BC%88%E8%A6%81%E9%A1%AF%E7%A4%BA%E5%87%BA%E4%BE%86%EF%BC%89)  
 ### 說明：  
-#### 看老師範例
+**看老師範例**
 
 ## **HW8：Python 基礎練習**
 
 ### 作業： [HW8](https://github.com/Luo051227/_wp/tree/main/homework/Python%20%E5%9F%BA%E7%A4%8E%E7%B7%B4%E7%BF%92)  
 ### 說明：  
-#### 網上資料參考&Chatgpt輔助
+**網上資料參考&Chatgpt輔助**
 
 ## **HW9：請為 blogSignup 加上可以刪除貼文的功能**
 
