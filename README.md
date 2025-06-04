@@ -69,18 +69,22 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 
 ### 作業： [HW7](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20sqlite%20blog%20%E7%B3%BB%E7%B5%B1%E5%8A%A0%E4%B8%8A%E8%B2%BC%E6%96%87%E6%99%82%E9%96%93%EF%BC%88%E8%A6%81%E9%A1%AF%E7%A4%BA%E5%87%BA%E4%BE%86%EF%BC%89)  
 ### 說明：  
-**看老師範例**
+**看老師範例**  
+
 
 ## **HW8：Python 基礎練習**
 
 ### 作業： [HW8](https://github.com/Luo051227/_wp/tree/main/homework/Python%20%E5%9F%BA%E7%A4%8E%E7%B7%B4%E7%BF%92)  
 ### 說明：  
-**網上資料參考&Chatgpt輔助**
+**網上資料參考&Chatgpt輔助**  
+這次作業主要是定義一個函數
 
 ## **HW9：請為 blogSignup 加上可以刪除貼文的功能**
 
 ### 作業： [HW9](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20blogSignup%20%E5%8A%A0%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%88%AA%E9%99%A4%E8%B2%BC%E6%96%87%E7%9A%84%E5%8A%9F%E8%83%BD)  
 ### 說明：  
+**看老師範例**  
+
 
 ## **期中：聊天機器人**
 
