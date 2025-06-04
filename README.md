@@ -12,7 +12,8 @@
 
 ## **HW1：請寫一個個人網頁（自我介紹）**
 
-###作業： [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)  
+###作業：
+[HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)  
 ### 看以前自學內容自己寫的
 主要用到的是html跟一些簡單的css，先把html做好，再做css
 
