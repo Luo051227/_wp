@@ -96,3 +96,71 @@ def a(data):
 > 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)  
 ### 說明：  
 利用了在線上課程 生成式AI：文字與圖像生成的原理與實務 中所學到的製作對話機器人以及金鑰產生，加上這學期所學的html、css、javascript，製作一個可用的聊天機器人，當中有請Chatgpt修改程式碼以及畫面的編排，增加了點擊按鍵後，可使畫面黑白轉換
+
+以下是畫面黑白轉換的程式碼：  
+**html**  
+```html
+<button id="theme-toggle" style="position: absolute; top: 10px; right: 10px;">🌙</button>
+```
+**css**
+```css
+/* ===== 淺色主題樣式 ===== */
+body.light {
+  background-color: #f4f4f4;
+  color: #111111;
+}
+/* 深色主題下容器背景也要調整 */
+body:not(.light) .chat-container {
+  background-color: #2c2c2c;
+}
+/* 深色主題輸入區 */
+body:not(.light) .chat-form input {
+  background-color: #3a3a3a;
+  color: white;
+}
+
+body:not(.light) .chat-form {
+  border-top: 1px solid #555;
+}
+/* ===== 主題切換按鈕 ===== */
+#theme-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: inherit;
+}
+```
+**javascript**
+```javascript
+const themeToggle = document.getElementById('theme-toggle'); // 主題切換按鈕
+
+// 初始主題
+let theme = localStorage.getItem('theme') || 'dark';
+applyTheme();
+
+// 主題切換按鈕事件
+themeToggle.addEventListener('click', () => {
+  theme = (theme === 'dark') ? 'light' : 'dark';
+  localStorage.setItem('theme', theme);
+  applyTheme();
+});
+
+// 套用主題樣式
+function applyTheme() {
+  if (theme === 'light') {
+    document.body.classList.add('light');
+    themeToggle.textContent = '🌞';
+  } else {
+    document.body.classList.remove('light');
+    themeToggle.textContent = '🌙';
+  }
+}
+```
+
+
+
