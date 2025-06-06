@@ -140,7 +140,7 @@ const result = [];
 
 ## **HW6：請寫一個程式可以新增三筆貼文**
 
-> 作業： [HW6](https://github.com/Luo051227/_wp/blob/main/homework/%E4%B8%80%E5%80%8B%E7%A8%8B%E5%BC%8F%E5%8F%AF%E4%BB%A5%E6%96%B0%E5%A2%9E%E4%B8%89%E7%AD%86%E8%B2%BC%E6%96%87)  
+> 作業： [HW6](https://github.com/Luo051227/_wp/blob/main/homework/%E4%B8%80%E5%80%8B%E7%A8%8B%E5%BC%8F%E5%8F%AF%E4%BB%A5%E6%96%B0%E5%A2%9E%E4%B8%89%E7%AD%86%E8%B2%BC%E6%96%87.js)    
 ### 說明：  
 **看老師範例**
 看[老師範例](https://github.com/ccc113b/html2server/blob/master/02-%E5%BE%8C%E7%AB%AFserver/js/deno/04-sqlite/01-sqliteHello/sqlite2blog.js)
