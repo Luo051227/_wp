@@ -144,12 +144,13 @@ const result = [];
 ### 說明：  
 **看老師範例**
 
+
 ## **HW7：請為 sqlite blog 系統加上貼文時間（要顯示出來）**
 
 > 作業： [HW7](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20sqlite%20blog%20%E7%B3%BB%E7%B5%B1%E5%8A%A0%E4%B8%8A%E8%B2%BC%E6%96%87%E6%99%82%E9%96%93%EF%BC%88%E8%A6%81%E9%A1%AF%E7%A4%BA%E5%87%BA%E4%BE%86%EF%BC%89)  
 ### 說明：  
 **看老師範例**  
-
+直接複製老師範例
 
 ## **HW8：Python 基礎練習**
 
@@ -168,13 +169,13 @@ def a(data):
 > 作業： [HW9](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20blogSignup%20%E5%8A%A0%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%88%AA%E9%99%A4%E8%B2%BC%E6%96%87%E7%9A%84%E5%8A%9F%E8%83%BD)  
 ### 說明：  
 **看老師範例**  
-
+直接複製老師範例
 
 ## **期中：聊天機器人**
 
 > 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)  
 ### 說明：  
-利用了在線上課程 生成式AI：文字與圖像生成的原理與實務 中所學到的製作對話機器人以及金鑰產生，加上這學期所學的html、css、javascript，製作一個可用的聊天機器人，當中有請Chatgpt修改程式碼以及畫面的編排，增加了點擊按鍵後，可使畫面黑白轉換
+利用了在線上課程 生成式AI：文字與圖像生成的原理與實務 中所學到的製作對話機器人以及金鑰產生，加上這學期所學的html、css、javascript，製作一個可用的聊天機器人，當中有請Chatgpt修改程式碼以及畫面的編排，增加了點擊按鍵後，可使畫面黑白轉換，javascript主要由Chatgpt做的
 
 以下是畫面黑白轉換的程式碼：  
 **html**  
