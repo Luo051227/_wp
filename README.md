@@ -156,6 +156,11 @@ for (const [id, title, body] of db.query("SELECT id, title, body FROM posts")) {
 ### 說明：  
 **看老師範例**  
 直接複製老師範例
+修改
+```Javascript
+console.log(`Server run at http://127.0.0.1:8000`)
+await app.listen({ port: 8000 });
+```
 
 ## **HW8：Python 基礎練習**
 
@@ -221,7 +226,7 @@ body:not(.light) .chat-form {
 }
 ```
 **javascript**
-```javascript
+```Javascript
 const themeToggle = document.getElementById('theme-toggle'); // 主題切換按鈕
 
 // 初始主題
