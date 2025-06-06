@@ -50,7 +50,33 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 > 作業： [HW4](https://github.com/Luo051227/_wp/tree/main/homework/JavaScript%20%E9%80%B2%E9%9A%8E%E7%BF%92%E9%A1%8C)  
 ### 說明：  
 **全部都參考Chatgpt**  
-第七題：利用向量加法、向量減法和向量內積
+第七題：利用向量加法、向量減法和向量內積  
+```JavaScript
+  add(other) {
+    if (this.components.length !== other.components.length) {
+      throw new Error("向量長度必須相同才能相加");
+    }
+    const result = this.components.map((component, index) => component + other.components[index]);
+    return new Vector(result);
+  }
+
+  sub(other) {
+    if (this.components.length !== other.components.length) {
+      throw new Error("向量長度必須相同才能相減");
+    }
+    const result = this.components.map((component, index) => component - other.components[index]);
+    return new Vector(result);
+  }
+
+  dot(other) {
+    if (this.components.length !== other.components.length) {
+      throw new Error("向量長度必須相同才能計算內積");
+    }
+    const result = this.components.reduce((sum, component, index) => sum + component * other.components[index], 0);
+    return result;
+  }
+}
+```
 
 ## **HW5：請設計一個個人網站，要能根據路徑做不同的回應**
 
