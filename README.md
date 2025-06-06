@@ -17,7 +17,7 @@
 **看以前自學內容自己寫的**  
 主要用到的是html跟一些簡單的css，先把html做好，再做css
 
-## **HW2：請設計一個註冊表單**
+#**HW2：請設計一個註冊表單**
 
 > 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form)  
 ### 說明：  
@@ -50,6 +50,59 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 > 作業： [HW4](https://github.com/Luo051227/_wp/tree/main/homework/JavaScript%20%E9%80%B2%E9%9A%8E%E7%BF%92%E9%A1%8C)  
 ### 說明：  
 **全部都參考Chatgpt**  
+第二題
+```javascrip
+return [...new Set(arr)].sort((a, b) => a - b);
+```
+第三題
+```javascrip
+return arr.reduce((sum, num) => sum + num, 0);
+```
+第四題
+```javascrip
+function deepMerge(obj1, obj2){
+    let result = { ...obj1 }; 
+    for (let key in obj2) {
+        if (obj2[key] instanceof Object && key in obj1) {
+            result[key] = deepMerge(obj1[key], obj2[key]); 
+        } else {
+            result[key] = obj2[key]; 
+        }
+    }
+    return result;
+}
+
+const obj1 = { a: 1, b: { x: 2, y: 3 } };
+const obj2 = { b: { y: 5, z: 6 }, c: 7 };
+console.log(deepMerge(obj1, obj2));
+```
+第五題
+```javascrip
+class Animal {
+    constructor(name) {
+      this.name = name;
+    }
+    speak() {
+      return `I am ${this.name}`;
+    }
+  }
+
+  class Dog extends Animal {
+    speak() {
+      return `Woof! I am ${this.name}`;
+    }
+  }
+  
+  const dog = new Dog("Buddy");
+  console.log(dog.speak());
+```
+第六題
+```JavaScript
+const result = [];
+  for (const item of arr) {
+    if (predicate(item)) {
+      result.push(item);
+```
 第七題：利用向量加法、向量減法和向量內積  
 ```JavaScript
   add(other) {
