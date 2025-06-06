@@ -133,7 +133,7 @@ const result = [];
 
 ## **HW5：請設計一個個人網站，要能根據路徑做不同的回應**
 
-> 作業： [HW5](https://github.com/Luo051227/_wp/blob/main/homework/web%E6%A0%B9%E6%93%9A%E8%B7%AF%E5%BE%91%E5%81%9A%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9B%9E%E6%87%89)  
+> 作業： [HW5](https://github.com/Luo051227/_wp/blob/main/homework/web%E6%A0%B9%E6%93%9A%E8%B7%AF%E5%BE%91%E5%81%9A%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9B%9E%E6%87%89.js) 
 ### 說明：  
 **自己寫的，參考以前自學內容**  
 看著以前的東西，邊參考邊改，慢慢寫出來，用html&css
