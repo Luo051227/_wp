@@ -155,7 +155,7 @@ for (const [id, title, body] of db.query("SELECT id, title, body FROM posts")) {
 > 作業： [HW7](https://github.com/Luo051227/_wp/tree/main/homework/%E8%AB%8B%E7%82%BA%20sqlite%20blog%20%E7%B3%BB%E7%B5%B1%E5%8A%A0%E4%B8%8A%E8%B2%BC%E6%96%87%E6%99%82%E9%96%93%EF%BC%88%E8%A6%81%E9%A1%AF%E7%A4%BA%E5%87%BA%E4%BE%86%EF%BC%89)  
 ### 說明：  
 **看老師範例**  
-直接複製老師範例
+直接複製[老師範例](https://github.com/ccc113b/html2server/blob/master/02-%E5%BE%8C%E7%AB%AFserver/js/deno/04-sqlite/04-blog/app.js)
 修改
 ```Javascript
 console.log(`Server run at http://127.0.0.1:8000`)
