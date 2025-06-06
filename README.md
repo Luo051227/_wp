@@ -42,8 +42,8 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 
 > 作業： [HW3](https://github.com/Luo051227/_wp/tree/main/homework/javascript%E7%B7%B4%E7%BF%92)  
 ### 說明： 
-**參考範例&Chatgpt**  
-先參考老師給的範例，再參考Chatgpt，兩個都參考完以後，才將作業寫出來  
+**參考網路&Chatgpt**  
+先參考網上的範例，再參考Chatgpt，兩個都參考完以後，才將作業寫出來  
 
 ## **HW4：請完成下列 JavaScript 進階習題**
 
