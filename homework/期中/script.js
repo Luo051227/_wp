@@ -3,7 +3,7 @@ const input = document.getElementById('user-input');
 const chatBox = document.getElementById('chat-box');
 const themeToggle = document.getElementById('theme-toggle'); // 主題切換按鈕
 
-const GROQ_API_KEY = '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'; // ← 在這裡放你的 Groq 金鑰
+const GROQ_API_KEY = 'Groq 金鑰'; // ← 在這裡放你的 Groq 金鑰
 
 // 初始主題
 let theme = localStorage.getItem('theme') || 'dark';
