@@ -17,7 +17,7 @@
 **看以前自學內容自己寫的**  
 主要用到的是html跟一些簡單的css，先把html做好，再做css
 
-#**HW2：請設計一個註冊表單**
+## **HW2：請設計一個註冊表單**
 
 > 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form)  
 ### 說明：  
