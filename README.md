@@ -182,7 +182,7 @@ def a(data):
 **看老師範例**  
 直接複製老師範例
 
-## **期中：聊天機器人**
+## **期中：迷你聊天機器人**
 
 > 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)  
 ### 說明：  
