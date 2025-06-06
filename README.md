@@ -51,15 +51,15 @@ select是html的表單元素之一，它是用來建立下拉式選單的，像�
 ### 說明：  
 **全部都參考Chatgpt**  
 第二題
-```javascrip
+```JavaScript
 return [...new Set(arr)].sort((a, b) => a - b);
 ```
 第三題
-```javascrip
+```JavaScript
 return arr.reduce((sum, num) => sum + num, 0);
 ```
 第四題
-```javascrip
+```JavaScript
 function deepMerge(obj1, obj2){
     let result = { ...obj1 }; 
     for (let key in obj2) {
@@ -77,7 +77,7 @@ const obj2 = { b: { y: 5, z: 6 }, c: 7 };
 console.log(deepMerge(obj1, obj2));
 ```
 第五題
-```javascrip
+```JavaScript
 class Animal {
     constructor(name) {
       this.name = name;
