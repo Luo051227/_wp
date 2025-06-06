@@ -19,7 +19,7 @@
 
 ## **HW2：請設計一個註冊表單**
 
-> 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form)  
+> 作業： [HW2](https://github.com/Luo051227/_wp/blob/main/homework/form.html)  [作業連結](
 ### 說明：  
 **看以前自學內容自己寫的**  
 之前我只有寫一個非常簡單的表單，但是這次我在那個表單上又增加了一個功能，就是增加一個國家的選單
