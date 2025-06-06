@@ -12,7 +12,7 @@
 
 ## **HW1：請寫一個個人網頁（自我介紹）**
 
-> 作業： [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal)[作業連結](https://luo051227.github.io/_wp/homework/personal.html)  
+> 作業： [HW1](https://github.com/Luo051227/_wp/blob/main/homework/personal.html) [作業連結](https://luo051227.github.io/_wp/homework/personal.html)  
 ### 說明：  
 **看以前自學內容自己寫的**  
 主要用到的是html跟一些簡單的css，先把html做好，再做css
