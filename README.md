@@ -186,7 +186,7 @@ def a(data):
 
 > 作業： [期中](https://683ef1ac98300a9abb7404e1--bucolic-lollipop-ef58cf.netlify.app/) [程式碼](https://github.com/Luo051227/_wp/tree/main/homework/%E6%9C%9F%E4%B8%AD)  
 ### 說明：  
-利用了在線上課程 生成式AI：文字與圖像生成的原理與實務 中所學到的製作對話機器人以及金鑰產生，加上這學期所學的html、css、javascript，製作一個可用的聊天機器人，當中有請Chatgpt修改程式碼以及畫面的編排，增加了點擊按鍵後，可使畫面黑白轉換，javascript主要由Chatgpt做的
+利用了在線上課程 生成式AI：文字與圖像生成的原理與實務 中所學到的製作對話機器人以及金鑰產生，加上Chatgpt做的html、css、javascript，製作一個可用的聊天機器人，當中有再請Chatgpt修改程式碼以及畫面的編排，增加了點擊按鍵後，可使畫面黑白轉換
 
 以下是畫面黑白轉換的程式碼：  
 **html**  
