@@ -143,7 +143,12 @@ const result = [];
 > 作業： [HW6](https://github.com/Luo051227/_wp/blob/main/homework/%E4%B8%80%E5%80%8B%E7%A8%8B%E5%BC%8F%E5%8F%AF%E4%BB%A5%E6%96%B0%E5%A2%9E%E4%B8%89%E7%AD%86%E8%B2%BC%E6%96%87)  
 ### 說明：  
 **看老師範例**
-
+自己修改
+```JavaScript
+for (const [id, title, body] of db.query("SELECT id, title, body FROM posts")) {
+    console.log('ID: '+id + ', ' + 'Title: ' + title + ', ' + 'Body: ' + body);
+}
+```
 
 ## **HW7：請為 sqlite blog 系統加上貼文時間（要顯示出來）**
 
